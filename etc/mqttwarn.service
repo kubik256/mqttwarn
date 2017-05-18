@@ -17,7 +17,7 @@
 #   virtualenv .venv27
 #   ./.venv27/bin/pip install --upgrade pip
 #   ./.venv27/bin/pip install paho-mqtt
-#   ./.venv27/bin/pip install paho-mqtt
+#   ./.venv27/bin/pip install mysqlclient
 #   ./.venv27/bin/pip install --egg http://dev.mysql.com/get/Downloads/Connector-Python/mysql-connector-python-2.1.6.tar.gz
 #
 # Prepare and enable the systemd service::
